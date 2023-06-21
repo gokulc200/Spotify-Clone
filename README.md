@@ -35,12 +35,11 @@
   <li>🟡Media Queries</li>
   <li>🟡VSCode</li>
   <li>🟣Github Actions</li>
-  <li>🟣Deployment : NETLIFY</li>
+  <li>🟣Deployment : FIREBASE</li>
 </ul>
   
 <h1>Sign In Credentials🔐</h1>
 <p>Users can sign in using their Spotify account.</p>
-<p>To run the website, it should be hosted in local host: 3004.</p>
 <p>To run the playback option, the user should have a premium Spotify account.</p>
 <p><b>Note: </b> To sign in, the user should have authenticated Spotify account.</p>
 
