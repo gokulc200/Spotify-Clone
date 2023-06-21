@@ -45,29 +45,28 @@
 
 <h1>Reference Video📽</h1>
 
-https://github.com/gokulc200/Spotify-Clone/assets/121416463/0ec9bb99-a9e5-410d-a0ec-2a65d63900c5
-
+https://github.com/gokulc200/Spotify-Clone/assets/121416463/6c68cc4d-f78a-41a4-87e7-59ac212f7a17
 
 <h1>Reference Images📷</h1>
 <h3>Laptop View</h3>
-  
-![Screenshot 2023-06-20 170427](https://github.com/gokulc200/Spotify-Clone/assets/121416463/a56f570c-886e-486f-8742-90b4b04e565e)
 
-![Screenshot 2023-06-20 170449](https://github.com/gokulc200/Spotify-Clone/assets/121416463/86b4cbea-44cc-496d-8518-d634eec712d2)
+![Screenshot 2023-06-21 154348](https://github.com/gokulc200/Spotify-Clone/assets/121416463/1f16411e-1407-4e0e-970f-4379b382ad49)
 
-![Screenshot 2023-06-20 170527](https://github.com/gokulc200/Spotify-Clone/assets/121416463/564d2136-d6c3-47e1-9c81-acd2b6be21ae)
+![Screenshot 2023-06-21 154408](https://github.com/gokulc200/Spotify-Clone/assets/121416463/58df8582-eec8-4b1f-8eef-db3e8b6423e5)
 
-![Screenshot 2023-06-20 170749](https://github.com/gokulc200/Spotify-Clone/assets/121416463/e9feaf7b-d10b-43bb-a0b6-4fb0cfc67aee)
+![Screenshot 2023-06-21 154430](https://github.com/gokulc200/Spotify-Clone/assets/121416463/15d8666a-4135-40c7-a957-35f331c19449)
+
+![Screenshot 2023-06-21 154715](https://github.com/gokulc200/Spotify-Clone/assets/121416463/73ebb1fb-8a2c-45c5-956f-e5aff401eb3c)
 
 <h3>Medium Devices View</h3>
 
-![Screenshot 2023-06-20 171213](https://github.com/gokulc200/Spotify-Clone/assets/121416463/b29b62a5-f36c-40a9-ad0a-3329ffe9f2eb)
+![Screenshot 2023-06-21 154237](https://github.com/gokulc200/Spotify-Clone/assets/121416463/0a6609f1-3821-46bf-92b8-240b53b5486d)
 
-![Screenshot 2023-06-20 171243](https://github.com/gokulc200/Spotify-Clone/assets/121416463/d8d76fa5-62b1-418f-806a-c39dab1a2f8a)
+![Screenshot 2023-06-21 154302](https://github.com/gokulc200/Spotify-Clone/assets/121416463/ecb64480-23f8-4e22-bf56-81defc5113fc)
 
-![Screenshot 2023-06-20 171257](https://github.com/gokulc200/Spotify-Clone/assets/121416463/7421b440-6719-41ae-8a9c-6e866c332a29)
+![Screenshot 2023-06-21 154318](https://github.com/gokulc200/Spotify-Clone/assets/121416463/dd66a462-4236-4e5f-a792-49da4be14f60)
 
-![Screenshot 2023-06-20 193419](https://github.com/gokulc200/Spotify-Clone/assets/121416463/ed028c78-8961-41d6-b181-c77697f78155)
-  
+![Screenshot 2023-06-21 154216](https://github.com/gokulc200/Spotify-Clone/assets/121416463/e63c36f9-a191-4a57-8cb5-1a66b4c4d0f7)
+
 <h1>Contribution🙌🏻</h1>
 <p>Contributors are welcome to submit pull requests for bug fixes, new features, or improvements. Guidelines for contributing and a code of conduct will be provided to ensure a collaborative and inclusive development process.</p>
